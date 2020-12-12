@@ -1,0 +1,2 @@
+# shyfyr-client
+Shyfyr CLI
